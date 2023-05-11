@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="luis gustavo policarpo de moraes">
+    <title>luis gustavo policarpo de moraes</title>
+</head>
+<style>
+    h1{
+        color: greenyellow;
+    }
+    h3{
+        color:blue
+    }
+    .fds{
+        color: red;
+    }
+</style>
+<body>
+    <h1 id="titulo-pagina">LUIS GUSTAVO</h1>
+    <h3>profissão: estudante</h3>
+    <div class="fds">
+    <h4>ESTUDANTE DO SESI</h4>
+    <p>gosto muito de andar de moto, serve igual uma terapia para mim</p>
+    <ul>
+        <li>equipe elite </li>
+        <li>equipe 4</li>
+    </ul>
+</div>
+</body>
+</html>
